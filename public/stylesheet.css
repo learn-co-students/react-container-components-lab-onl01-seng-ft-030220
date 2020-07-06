@@ -1,0 +1,15 @@
+.app {
+  margin: 50px;
+}
+
+.review {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #ddd;
+  border-radius: 10px;
+}
+
+.review a {
+  text-decoration: none;
+  color: black;
+}
